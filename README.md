@@ -17,5 +17,5 @@ Este es un ejercicio que realicé para practicar HTML y CSS, utilizando flexbox,
 - Estilización básica con CSS
 - Componentes de interfaz de usuario sencillos y efectivos
 
-## Imagen del ejercicio
+## Imagen del Ejercicio
 ![Minimal Blog Card ](img/blog.png)
