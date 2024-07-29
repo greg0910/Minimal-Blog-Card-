@@ -19,3 +19,9 @@ Este es un ejercicio que realicé para practicar HTML y CSS, utilizando flexbox,
 
 ## Imagen del Ejercicio
 ![Minimal Blog Card ](img/blog.png)
+
+## Enlace a la Demo
+
+Puedes ver la tarjeta de blog en vivo en el siguiente enlace:
+
+[Ver la tarjeta de blog](https://greg0910.github.io/Minimal-Blog-Card-/)
