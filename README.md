@@ -18,3 +18,4 @@ Este es un ejercicio que realicé para practicar HTML y CSS, utilizando flexbox,
 - Componentes de interfaz de usuario sencillos y efectivos
 
 ## Imagen del ejercicio
+![Minimal Blog Card ](img/blog.png)
