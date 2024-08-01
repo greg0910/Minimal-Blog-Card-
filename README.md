@@ -9,7 +9,7 @@ Este desafío es una excelente manera de comenzar con habilidades básicas de HT
 
 ## Descripción del Proyecto
 
-Este es un ejercicio que realicé para practicar HTML y CSS, utilizando flexbox, colores y otros elementos de diseño. Me ayudó a seguir aprendiendo y mejorando mis habilidades en desarrollo web.
+Este es un ejercicio que realicé para practicar HTML y CSS, utilizando flexbox, colores y otros elementos de diseño. 
 
 ## Características
 
